@@ -12,3 +12,12 @@
 
 `pip install -r requirements.txt`
 
+## Create a .env file
+
+```env
+SECRET_ID=
+DATABASE=
+RELATION_DATABASE=
+PDF_PATH=
+
+```
